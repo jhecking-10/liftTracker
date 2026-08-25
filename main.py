@@ -1,9 +1,11 @@
 def greeting():
     print("========== LIFT TRACKER ==========")
-    routine = input("Push, pull, or leg day?\n")
+    return input("Push, pull, or leg day?\n")
+
+def initialize(routine):
     print(f"Initializing data for {routine} day...")
 
 def main():
-    greeting()
+    initialize(greeting())
 
 main()
