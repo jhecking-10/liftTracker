@@ -8,8 +8,13 @@ The following is a *non-exhaustive* list of **potential implementations**:
     - sets
     - reps
     - equipment
+
 - kg to lbs conversion and vice versa
+
 - Body weight tracker with:
     - time of day weighed
     - with or w/o clothes
     - food and/or fluids consumed
+ 
+- User input for routine
+    - push, pull, etc.
